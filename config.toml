@@ -1,0 +1,4 @@
+[model_cache]
+enabled = true
+idle_timeout_seconds = 600
+
